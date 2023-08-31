@@ -1,9 +1,9 @@
 <?php
-$hostname = "vr-crarerhel-do-user-14558665-0.b.db.ondigitalocean.com";
+$hostname = "db-mysql-sgp1-99715-do-user-14558665-0.b.db.ondigitalocean.com";
 $port = "25060";
-$dbname = "vr_carer";
+$dbname = "defaultdbr";
 $username = "doadmin";
-$password = "AVNS_9Ct4FPx2u0OOgGC533V";
+$password = "AVNS_iwuZuKd3mf5KxnmLF_R";
 $pdo = new PDO(
     "mysql:host=$hostname;port=$port;dbname=$dbname",
     $username,
